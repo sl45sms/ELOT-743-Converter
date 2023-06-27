@@ -16,6 +16,7 @@
   "scripts": {
     "build": "tsc",
     "start": "node ./bin/convert.js",
-    "dev": "ts-node ./src/convert.ts"
+    "dev": "ts-node ./src/convert.ts",
+    "test": "ts-node ./test/convert.ts"
   }
 }
