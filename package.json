@@ -1,6 +1,6 @@
 {
   "name": "elot-743-converter",
-  "version": "1.0.3",
+  "version": "1.0.11",
   "description": "Convert from Greek to ΕΛΟΤ 743/ISO 843 Greeklish representation",
   "main": "bin/convert.js",
   "repository": "https://github.com/sl45sms/ELOT-743-Converter",
